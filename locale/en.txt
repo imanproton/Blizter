@@ -1,0 +1,34 @@
+#: locale=en
+
+## Media
+
+### Title
+video_04237102_14C5_0723_4195_48A850169531.label = 0001-0450
+panorama_1F621388_14BD_0B2E_41AB_5725CB3276C2.label = 1
+panorama_1E0D2424_14BD_0D66_418D_C37ADB12E8DA.label = 2
+panorama_1E0EBF25_14BD_3B66_41AE_B082A6E00F5C.label = 3
+panorama_1F205A13_14BD_0522_41B3_99BAD17809B5.label = 4
+
+### Video
+videolevel_023F4075_14CD_05E6_41B4_7521803FE953.url = media/video_04237102_14C5_0723_4195_48A850169531_en.mp4
+videolevel_023F4075_14CD_05E6_41B4_7521803FE953.posterURL = media/video_04237102_14C5_0723_4195_48A850169531_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_071AE7C9_14C5_0B2E_41A1_95865F902B71.label = PANORAMA LIST
+
+### Image
+Image_071A57C9_14C5_0B2E_41A0_497E31D987BD.url = skin/Image_071A57C9_14C5_0B2E_41A0_497E31D987BD_en.png
+
+### Multiline Text
+HTMLText_007C94EE_14C7_0EE2_4151_876CFFE35AAC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.33vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.65vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BLIZTER VIRTUAL TOUR
